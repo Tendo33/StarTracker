@@ -2,7 +2,7 @@
 
 # 🌟 StarTracker
 
-<img src="template/imgs/code.gif" width="aotu" height="300">
+<img src="template/imgs/code.gif" width="aotu" height="250">
 
 **SimonSun's StarTracker**
 
