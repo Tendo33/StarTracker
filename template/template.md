@@ -2,7 +2,7 @@
 
 # 🌟 StarTracker
 
-![falling](template/imgs/falling.png)
+![falling](template/imgs/code.gif)
 
 SimonSun's StarTracker
 
