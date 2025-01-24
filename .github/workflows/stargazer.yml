@@ -1,4 +1,4 @@
-name: Stargazer
+name: StarTracker
 
 on:
     push:
@@ -12,7 +12,7 @@ jobs:
     stargazer:
         runs-on: ubuntu-latest
         steps:
-            - name: Stargazer
+            - name: StarTracker
               uses: zhuozhiyongde/gaze-stars@latest
               with:
                   api-token: ${{ secrets.STARTRACKER }}
