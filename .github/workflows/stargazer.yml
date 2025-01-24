@@ -15,7 +15,7 @@ jobs:
             - name: Stargazer
               uses: zhuozhiyongde/gaze-stars@latest
               with:
-                  api-token: ${{ secrets.API_TOKEN }}
+                  api-token: ${{ secrets.STARTRACKER }}
                   github-username: ${{ github.repository_owner }}
                   git-name: Github Action
                   git-email: actions@users.noreply.github.com
