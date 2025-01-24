@@ -6,6 +6,6 @@
 
 **SimonSun's StarTracker**
 
-</div><br>
+</div>
 
 [[GENERATE HERE]]
