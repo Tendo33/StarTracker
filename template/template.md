@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌟 Stargazer
+# 🌟 StarTracker
 
-![falling](template/falling.png)
+![falling](template/imgs/falling.png)
 
-我在梦河边浣洗星星。
+SimonSun's StarTracker
 
 </div><br>
 
