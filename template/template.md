@@ -2,7 +2,7 @@
 
 # 🌟 StarTracker
 
-![falling](template/imgs/code.gif)
+<img src="template/imgs/code.gif" width="aotu" height="300">
 
 SimonSun's StarTracker
 
