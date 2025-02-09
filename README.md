@@ -163,7 +163,7 @@
 
 -   [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 -   [simonlisiyu/llm_finetune](https://github.com/simonlisiyu/llm_finetune) - Web one-click mode full process platform, including train data upload, fine-tuning, model merge, model deploy, gpu monitor etc., no need python or shell development
--   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1, Reasoning, Phi-4 & Gemma 2 LLMs 2x faster with 70% less memory
+-   [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory
 -   [Glanvery/LLM-Travel](https://github.com/Glanvery/LLM-Travel) - 欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。
 -   [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 -   [state-spaces/mamba](https://github.com/state-spaces/mamba) - Mamba SSM architecture
