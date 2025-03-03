@@ -27,7 +27,7 @@
 -   [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 -   [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker.
 -   [amazon-science/RAGChecker](https://github.com/amazon-science/RAGChecker) - RAGChecker: A Fine-grained Framework For Diagnosing RAG
--   [agno-agi/agno](https://github.com/agno-agi/agno) - Agno is a lightweight library for building multi-modal Agents
+-   [agno-agi/agno](https://github.com/agno-agi/agno) - Build Multimodal AI Agents with memory, knowledge and tools. Simple, fast and model-agnostic.
 -   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 -   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 -   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -162,6 +162,9 @@
 -   [zjunlp/OmniThink](https://github.com/zjunlp/OmniThink) - OmniThink: Expanding Knowledge Boundaries in Machine Writing through Thinking
 -   [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 -   [deanxv/genspark2api](https://github.com/deanxv/genspark2api)
+-   [insistence/RuoYi-Vue3-FastAPI](https://github.com/insistence/RuoYi-Vue3-FastAPI) - 基于Vue3+Element Plus+FastAPI开发的一个通用中后台管理框架（若依的FastAPI版本），支持代码生成。A general middle and backend management framework developed with Vue3 + Element Plus + FastAPI (FastAPI Edition of RuoYi), supporting code generation.
+-   [Richard0403/FluxPanel](https://github.com/Richard0403/FluxPanel) - FluxPanel基于FastApi+SqlAlchemy+Vue3开发的管理系统，易于拓展，支持代码一键生成
+-   [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析
 
 ## Knowledge and Information😃
 
