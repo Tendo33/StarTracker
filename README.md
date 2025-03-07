@@ -167,6 +167,7 @@
 -   [Richard0403/FluxPanel](https://github.com/Richard0403/FluxPanel) - FluxPanel基于FastApi+SqlAlchemy+Vue3开发的管理系统，易于拓展，支持代码一键生成
 -   [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析
 -   [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
+-   [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 
 ## Knowledge and Information😃
 
