@@ -109,7 +109,7 @@
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 -   [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 -   [hiyouga/EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
--   [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - FastAPI Best Architecture is an enterprise-grade backend architecture solution built with FastAPI.  FastAPI 最佳架构是使用 FastAPI 构建的企业级后端架构解决方案。
+-   [fastapi-practices/fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - FastAPI Best Architecture is an enterprise-grade backend architecture solution built with FastAPI.  FastAPI 最佳架构是使用 FastAPI 构建的企业级后端架构解决方案
 
 ## Funny staff🎈
 
