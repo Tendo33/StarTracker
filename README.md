@@ -214,4 +214,5 @@
 
 ## Unlisted
 
+-   [ShigureLab/python-lib-starter](https://github.com/ShigureLab/python-lib-starter) - :gear: Just a template for quickly creating a python library.
 -   [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - Agent Framework / shim to use Pydantic with LLMs
