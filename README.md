@@ -23,7 +23,7 @@
 -   [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 -   [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) - Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker.
 -   [amazon-science/RAGChecker](https://github.com/amazon-science/RAGChecker) - RAGChecker: A Fine-grained Framework For Diagnosing RAG
--   [agno-agi/agno](https://github.com/agno-agi/agno) - Build Reasoning Agents with memory, knowledge, tools and native multi-modal support.
+-   [agno-agi/agno](https://github.com/agno-agi/agno) - Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
 -   [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 -   [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 -   [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -136,11 +136,11 @@
 -   [deanxv/genspark2api](https://github.com/deanxv/genspark2api)
 -   [insistence/RuoYi-Vue3-FastAPI](https://github.com/insistence/RuoYi-Vue3-FastAPI) - 基于Vue3+Element Plus+FastAPI开发的一个通用中后台管理框架（若依的FastAPI版本），支持代码生成。A general middle and backend management framework developed with Vue3 + Element Plus + FastAPI (FastAPI Edition of RuoYi), supporting code generation.
 -   [Richard0403/FluxPanel](https://github.com/Richard0403/FluxPanel) - FluxPanel基于FastApi+SqlAlchemy+Vue3开发的管理系统，易于拓展，支持代码一键生成
--   [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析
 -   [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) - The python library for real-time communication
 -   [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 -   [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note) - LLM notes, including model inference, transformer model structure, and llm framework code analysis notes.
 -   [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) - ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI.
+-   [LargeCupPanda/StockAnal_Sys](https://github.com/LargeCupPanda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
 
 ## Knowledge and Information😃
 
