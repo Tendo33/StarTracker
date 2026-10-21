@@ -24,63 +24,63 @@
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | ⭐255299 |
-| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | ⭐208066 |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | ⭐161810 |
-| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | ⭐155851 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | ⭐118557 |
-| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | ⭐96629 |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | ⭐92497 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | ⭐84161 |
-| [daytonaio/daytona](https://github.com/daytonaio/daytona) | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code | ⭐71519 |
-| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | ⭐70930 |
-| [mem0ai/mem0](https://github.com/mem0ai/mem0) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | ⭐67479 |
-| [microsoft/autogen](https://github.com/microsoft/autogen) | A programming framework for agentic AI | ⭐61492 |
-| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | No fortress, purely open ground.  OpenManus is Coming. | ⭐58738 |
-| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins | ⭐56044 |
-| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | ⭐51697 |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | ⭐47669 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐42825 |
-| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | ⭐39340 |
-| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models | ⭐38702 |
-| [searxng/searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | ⭐38615 |
-| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. | ⭐37752 |
-| [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ⭐34700 |
-| [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 | ⭐33007 |
-| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | ⭐32555 |
-| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. | ⭐30645 |
-| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | Make Any Website into CLI & Use your logged-in browser by AI agent.  | ⭐30443 |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | ⭐30426 |
-| [oraios/serena](https://github.com/oraios/serena) | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent | ⭐30405 |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | An autonomous agent that conducts deep research on any data using any LLM providers | ⭐30185 |
-| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | ⭐30150 |
-| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | ⭐29894 |
-| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | ⭐29514 |
-| [mlflow/mlflow](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. | ⭐28453 |
-| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients. | ⭐28139 |
-| [gastownhall/beads](https://github.com/gastownhall/beads) | Beads - A memory upgrade for your coding agent | ⭐28032 |
-| [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. | ⭐21730 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | ⭐255617 |
+| [n8n-io/n8n](https://github.com/n8n-io/n8n) | Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. | ⭐208165 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. | ⭐162414 |
+| [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Langflow is a powerful tool for building and deploying AI-powered agents and workflows. | ⭐155871 |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. | ⭐118678 |
+| [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | A collection of MCP servers. | ⭐96676 |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs | ⭐92557 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | ⭐84215 |
+| [daytonaio/daytona](https://github.com/daytonaio/daytona) | Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code | ⭐71514 |
+| [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming | ⭐70941 |
+| [mem0ai/mem0](https://github.com/mem0ai/mem0) | The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production. | ⭐67547 |
+| [microsoft/autogen](https://github.com/microsoft/autogen) | A programming framework for agentic AI | ⭐61503 |
+| [FoundationAgents/OpenManus](https://github.com/FoundationAgents/OpenManus) | No fortress, purely open ground.  OpenManus is Coming. | ⭐58747 |
+| [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins | ⭐56123 |
+| [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Hindsight: Agent Memory That Learns | ⭐52054 |
+| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. | ⭐47740 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | Build, run, and manage agent platforms. | ⭐42844 |
+| [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra | ⭐39353 |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | DSPy: The framework for programming—not prompting—language models | ⭐38710 |
+| [searxng/searxng](https://github.com/searxng/searxng) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | ⭐38665 |
+| [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. | ⭐37764 |
+| [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | LLM Frontend for Power Users. | ⭐34744 |
+| [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) | Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀 | ⭐33018 |
+| [topoteretes/cognee](https://github.com/topoteretes/cognee) | Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free | ⭐32600 |
+| [ComposioHQ/composio](https://github.com/ComposioHQ/composio) | Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. | ⭐30658 |
+| [oraios/serena](https://github.com/oraios/serena) | A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent | ⭐30515 |
+| [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) | Make Any Website into CLI & Use your logged-in browser by AI agent.  | ⭐30477 |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | The batteries-included agent harness. | ⭐30456 |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | An autonomous agent that conducts deep research on any data using any LLM providers | ⭐30204 |
+| [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | A lightweight, powerful framework for multi-agent workflows | ⭐30187 |
+| [kestra-io/kestra](https://github.com/kestra-io/kestra) | Event Driven Orchestration & Scheduling Platform for Mission Critical Applications | ⭐29910 |
+| [alibaba/page-agent](https://github.com/alibaba/page-agent) | JavaScript in-page GUI agent. Control web interfaces with natural language. | ⭐29522 |
+| [mlflow/mlflow](https://github.com/mlflow/mlflow) | The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data. | ⭐28470 |
+| [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) | 🚀 The fast, Pythonic way to build MCP servers and clients. | ⭐28151 |
+| [gastownhall/beads](https://github.com/gastownhall/beads) | Beads - A memory upgrade for your coding agent | ⭐28060 |
+| [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) | An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation. | ⭐21736 |
 | [kortix-ai/suna](https://github.com/kortix-ai/suna) | The open-source AI Operating System | ⭐20288 |
-| [elizaOS/eliza](https://github.com/elizaOS/eliza) | Open source agentic operating system | ⭐19629 |
-| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises. | ⭐17149 |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Personal memory across agents | ⭐14555 |
-| [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! | ⭐13882 |
-| [dataelement/bisheng](https://github.com/dataelement/bisheng) | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more. | ⭐12058 |
-| [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | ⭐11264 |
-| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. | ⭐11154 |
-| [numman-ali/openskills](https://github.com/numman-ali/openskills) | Universal skills loader for AI coding agents - npm i -g openskills | ⭐10803 |
-| [OpenSPG/KAG](https://github.com/OpenSPG/KAG) | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model. | ⭐9113 |
-| [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows. | ⭐7438 |
-| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT) | ⭐6947 |
-| [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+. | ⭐4268 |
-| [Deepractice/PromptX](https://github.com/Deepractice/PromptX) | PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform | ⭐3685 |
-| [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) | TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 | ⭐3209 |
-| [lupantech/AgentFlow](https://github.com/lupantech/AgentFlow) | AgentFlow: In-the-Flow Agentic System Optimization | ⭐2060 |
+| [elizaOS/eliza](https://github.com/elizaOS/eliza) | Open source agentic operating system | ⭐19630 |
+| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. Built for enterprise, Memori works with the data infrastructure you already run, no rip-and-replace, and deploys across managed cloud, single-tenant cloud, VPC, and on-premises. | ⭐17150 |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | Personal memory across agents | ⭐14551 |
+| [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant! | ⭐13884 |
+| [dataelement/bisheng](https://github.com/dataelement/bisheng) | BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SFT, Dataset Management, Enterprise-level System Management, Observability and more. | ⭐12061 |
+| [The-Pocket/PocketFlow](https://github.com/The-Pocket/PocketFlow) | Pocket Flow: 100-line LLM framework. Let Agents build Agents! | ⭐11267 |
+| [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) | Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs. | ⭐11156 |
+| [numman-ali/openskills](https://github.com/numman-ali/openskills) | Universal skills loader for AI coding agents - npm i -g openskills | ⭐10807 |
+| [OpenSPG/KAG](https://github.com/OpenSPG/KAG) | KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model. | ⭐9116 |
+| [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows. | ⭐7446 |
+| [InternLM/MindSearch](https://github.com/InternLM/MindSearch) | 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT) | ⭐6946 |
+| [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) | Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+. | ⭐4275 |
+| [Deepractice/PromptX](https://github.com/Deepractice/PromptX) | PromptX · 领先的AI 智能体上下文平台 ｜ PromptX · Leading AI Agent Context Platform | ⭐3686 |
+| [liyown/ai-trend-publish](https://github.com/liyown/ai-trend-publish) | TrendPublish: 全自动 AI 内容生成与发布系统 \| 微信公众号自动化 \| 多源数据抓取 (Twitter/X、网站) \| DeepseekAI、千问、讯飞模型 \| 智能内容分析排序 \| 定时发布 \| 多模板支持 \| Node.js \| TypeScript \| AI 技术趋势跟踪工具 | ⭐3210 |
+| [lupantech/AgentFlow](https://github.com/lupantech/AgentFlow) | AgentFlow: In-the-Flow Agentic System Optimization | ⭐2064 |
 | [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) | A curated list of awesome LLM agents frameworks. | ⭐1611 |
-| [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) | Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks. | ⭐1368 |
-| [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) | A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent. | ⭐1356 |
+| [GanyuanRan/Aegis](https://github.com/GanyuanRan/Aegis) | Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks. | ⭐1372 |
+| [poco-ai/poco-claw](https://github.com/poco-ai/poco-claw) | A more beautiful and easier-to-use alternative to OpenClaw. It features a nicer Web UI, built-in IM support, a sandboxed runtime and channel-based team collaboration. Under the hood, it is powered by a Claude Code–based agent. | ⭐1357 |
 | [NovaSearch-Team/RAG-Retrieval](https://github.com/NovaSearch-Team/RAG-Retrieval) | Unify Efficient Fine-tuning of  RAG Retrieval, including Embedding, ColBERT, ReRanker. | ⭐1136 |
-| [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace) | "AgentSpace: Human + Agents. One Team. One Workspace" | ⭐1015 |
+| [HKUDS/AgentSpace](https://github.com/HKUDS/AgentSpace) | "AgentSpace: Human + Agents. One Team. One Workspace" | ⭐1016 |
 | [aiming-lab/AutoHarness](https://github.com/aiming-lab/AutoHarness) | AutoHarness: Automated Harness Engineering for AI Agents | ⭐452 |
 | [hellangleZ/Agent-MemoryForge](https://github.com/hellangleZ/Agent-MemoryForge) | Production-grade memory layer for AI agents with durable multi-tenant memory, semantic recall, async distillation, and SDK/Gateway integration. | ⭐179 |
 
@@ -88,9 +88,9 @@
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls) | ⭐13053 |
-| [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM training framework for RL Scaling. | ⭐8690 |
-| [safety-research/bloom](https://github.com/safety-research/bloom) | bloom - evaluate any behavior immediately  🌸🌱 | ⭐1416 |
+| [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls) | ⭐13055 |
+| [THUDM/slime](https://github.com/THUDM/slime) | slime is an LLM training framework for RL Scaling. | ⭐8699 |
+| [safety-research/bloom](https://github.com/safety-research/bloom) | bloom - evaluate any behavior immediately  🌸🌱 | ⭐1417 |
 | [Gen-Verse/Open-AgentRL](https://github.com/Gen-Verse/Open-AgentRL) | RLAnything (ICML 2026) & AutoTool (ICML 2026), DemyAgent: Open-Source RL for LLMs and Agentic Scenarios | ⭐655 |
 | [Gen-Verse/ReasonFlux](https://github.com/Gen-Verse/ReasonFlux) | [NeurIPS 2025 Spotlight] LLM post-training suite — featuring ReasonFlux, ReasonFlux-PRM, and ReasonFlux-Coder. | ⭐544 |
 | [verl-project/verl-recipe](https://github.com/verl-project/verl-recipe) | A set of examples based on verl for end-to-end RL training recipes. | ⭐341 |
@@ -99,21 +99,21 @@
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | ⭐193129 |
-| [docling-project/docling](https://github.com/docling-project/docling) | Get your documents ready for gen AI | ⭐69139 |
-| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ⭐35100 |
-| [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) | 🧙 Build, run, and manage data pipelines for integrating and transforming data. | ⭐8833 |
-| [Zipstack/unstract](https://github.com/Zipstack/unstract) | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows | ⭐7292 |
-| [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) | Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷 | ⭐7163 |
-| [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) | Repair malformed JSON from LLMs, APIs, logs, and user input in Python. | ⭐5118 |
-| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. | ⭐4988 |
-| [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) | Curated list of datasets and tools for post-training. | ⭐4817 |
-| [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC) | MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。 | ⭐4287 |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥 | ⭐193514 |
+| [docling-project/docling](https://github.com/docling-project/docling) | Get your documents ready for gen AI | ⭐69224 |
+| [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched | ⭐35105 |
+| [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) | 🧙 Build, run, and manage data pipelines for integrating and transforming data. | ⭐8835 |
+| [Zipstack/unstract](https://github.com/Zipstack/unstract) | LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows | ⭐7296 |
+| [datajuicer/data-juicer](https://github.com/datajuicer/data-juicer) | Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷 | ⭐7172 |
+| [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) | Repair malformed JSON from LLMs, APIs, logs, and user input in Python. | ⭐5119 |
+| [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. | ⭐4989 |
+| [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) | Curated list of datasets and tools for post-training. | ⭐4818 |
+| [esbatmop/MNBVC](https://github.com/esbatmop/MNBVC) | MNBVC(Massive Never-ending BT Vast Chinese corpus)超大规模中文语料集。对标chatGPT训练的40T数据。MNBVC数据集不但包括主流文化，也包括各个小众文化甚至火星文的数据。MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。 | ⭐4286 |
 | [ucbepic/docetl](https://github.com/ucbepic/docetl) | A system for agentic LLM-powered data processing and ETL | ⭐4137 |
-| [argilla-io/distilabel](https://github.com/argilla-io/distilabel) | Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. | ⭐3425 |
+| [argilla-io/distilabel](https://github.com/argilla-io/distilabel) | Distilabel is a framework for synthetic data and AI feedback for engineers who need fast, reliable and scalable pipelines based on verified research papers. | ⭐3427 |
 | [refuel-ai/autolabel](https://github.com/refuel-ai/autolabel) | Label, clean and enrich text datasets with LLMs. | ⭐2331 |
 | [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer) | Enforce the output format (JSON Schema, Regex etc) of a language model | ⭐2041 |
-| [magicyuan876/mineru-tianshu](https://github.com/magicyuan876/mineru-tianshu) | 天枢 - 企业级 AI 一站式数据预处理平台 \| PDF/Office转Markdown \| 支持MCP协议AI助手集成 \| Vue3+FastAPI全栈方案 \| 文档解析 \| 多模态信息提取 | ⭐845 |
+| [magicyuan876/mineru-tianshu](https://github.com/magicyuan876/mineru-tianshu) | 天枢 - 企业级 AI 一站式数据预处理平台 \| PDF/Office转Markdown \| 支持MCP协议AI助手集成 \| Vue3+FastAPI全栈方案 \| 文档解析 \| 多模态信息提取 | ⭐847 |
 | [599yongyang/DatasetLoom](https://github.com/599yongyang/DatasetLoom) | 一个面向多模态大模型训练的智能数据集构建与评估平台 | ⭐300 |
 | [OpenDataArena/OpenDataArena-Tool](https://github.com/OpenDataArena/OpenDataArena-Tool) | Tools for OpenDataArena: Fair, Open, and Transparent Arena for Data | ⭐149 |
 
@@ -121,118 +121,118 @@
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | ⭐87040 |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. | ⭐53237 |
-| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | ⭐52768 |
-| [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout | ⭐50839 |
-| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose. | ⭐46046 |
-| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | ⭐40365 |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation | ⭐40219 |
-| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | ⭐39320 |
-| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | ⭐37451 |
-| [microsoft/graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | ⭐36388 |
-| [letta-ai/letta](https://github.com/letta-ai/letta) | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. | ⭐25195 |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" | ⭐23887 |
-| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | open-source agentic AI data assistant for the next generation of AI + Data products. | ⭐20162 |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework | ⭐18968 |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. | ⭐18758 |
-| [neo4j/neo4j](https://github.com/neo4j/neo4j) | Graphs for Everyone | ⭐17342 |
-| [superset-sh/superset](https://github.com/superset-sh/superset) | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription. | ⭐15380 |
-| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | A framework for few-shot evaluation of language models. | ⭐14271 |
-| [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) |   A distributed, fast open-source graph database featuring horizontal scalability and high availability | ⭐12437 |
-| [LMCache/LMCache](https://github.com/LMCache/LMCache) | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer | ⭐12120 |
-| [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) | Large Language Model Text Generation Inference | ⭐10879 |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | ⭐87262 |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | Make humans and AI agents work as one team — open-source and self-hostable. | ⭐53335 |
+| [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) | AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs | ⭐52807 |
+| [chenglou/pretext](https://github.com/chenglou/pretext) | Fast, accurate & comprehensive text measurement & layout | ⭐50859 |
+| [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) | Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose. | ⭐46054 |
+| [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills. | ⭐40460 |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation | ⭐40247 |
+| [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG | ⭐39379 |
+| [sgl-project/sglang](https://github.com/sgl-project/sglang) | SGLang is a high-performance serving framework for large language models and multimodal models. | ⭐37521 |
+| [microsoft/graphrag](https://github.com/microsoft/graphrag) | A modular graph-based Retrieval-Augmented Generation (RAG) system | ⭐36398 |
+| [letta-ai/letta](https://github.com/letta-ai/letta) | Platform for stateful agents: AI with advanced memory that can learn and self-improve over time. | ⭐25208 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | "RAG-Anything: All-in-One RAG Framework" | ⭐23928 |
+| [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT) | open-source agentic AI data assistant for the next generation of AI + Data products. | ⭐20170 |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | The LLM Evaluation Framework | ⭐18994 |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | The absolute trainer to light up AI agents. | ⭐18770 |
+| [neo4j/neo4j](https://github.com/neo4j/neo4j) | Graphs for Everyone | ⭐17347 |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription. | ⭐15413 |
+| [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | A framework for few-shot evaluation of language models. | ⭐14281 |
+| [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) |   A distributed, fast open-source graph database featuring horizontal scalability and high availability | ⭐12439 |
+| [LMCache/LMCache](https://github.com/LMCache/LMCache) | LMCache: Supercharge Your LLM with the Fastest KV Cache Layer | ⭐12133 |
+| [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) | Large Language Model Text Generation Inference | ⭐10880 |
 | [OpenPipe/ART](https://github.com/OpenPipe/ART) | Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen3.6, GPT-OSS, Llama, and more! | ⭐10813 |
-| [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL) | ⭐10100 |
-| [xorbitsai/inference](https://github.com/xorbitsai/inference) | Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API. | ⭐9616 |
-| [kyegomez/swarms](https://github.com/kyegomez/swarms) | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai | ⭐7282 |
-| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.  | ⭐4652 |
+| [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL) | ⭐10103 |
+| [xorbitsai/inference](https://github.com/xorbitsai/inference) | Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API. | ⭐9619 |
+| [kyegomez/swarms](https://github.com/kyegomez/swarms) | The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai | ⭐7285 |
+| [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.  | ⭐4654 |
 | [vllm-project/production-stack](https://github.com/vllm-project/production-stack) | vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization | ⭐2682 |
 | [Memento-Teams/Memento](https://github.com/Memento-Teams/Memento) | Official Code of Memento: Fine-tuning LLM Agents without Fine-tuning LLMs | ⭐2601 |
 | [fastapi-practices/fastapi-best-architecture](https://github.com/fastapi-practices/fastapi-best-architecture) | Enterprise-level backend architecture solution with fastapi、sqlalchemy,、celery、pydantic、grafana、docker... | ⭐2591 |
-| [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) | The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud. | ⭐1599 |
+| [alibaba/Pai-Megatron-Patch](https://github.com/alibaba/Pai-Megatron-Patch) | The official repo of Pai-Megatron-Patch for LLM & VLM large scale training developed by Alibaba Cloud. | ⭐1600 |
 | [flagos-ai/FlagPerf](https://github.com/flagos-ai/FlagPerf) | FlagPerf is an open-source software platform for  benchmarking AI chips.  | ⭐381 |
 
 ## Funny staff🎈
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | ⭐392742 |
-| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! | ⭐141976 |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | ⭐116533 |
-| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | ⭐111802 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. | ⭐102561 |
-| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | ⭐94565 |
-| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | ⭐91310 |
-| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows. | ⭐88876 |
-| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. | ⭐85870 |
-| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | ⭐83990 |
-| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | ⭐82068 |
-| [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | ⭐75216 |
-| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  | ⭐67330 |
-| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  \| 知乎问答文章｜评论爬虫 | ⭐67242 |
-| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | ⭐64107 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | ⭐58035 |
-| [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ⭐55650 |
-| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | ⭐55298 |
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | ⭐49736 |
-| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. | ⭐44373 |
-| [wshobson/agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi | ⭐41175 |
-| [frappe/erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | ⭐40368 |
-| [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) | An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules. | ⭐39604 |
-| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | An AI prompt optimizer for writing better prompts and getting better AI results. | ⭐38597 |
-| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. | ⭐37763 |
-| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. | ⭐36043 |
-| [TabbyML/tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ⭐33918 |
-| [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. | ⭐32176 |
-| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create beautiful slides on the web using a coding agent's frontend skills | ⭐30928 |
-| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | ⭐29826 |
-| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 | ⭐28962 |
-| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | ⭐28403 |
-| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | ⭐26657 |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | ⭐25143 |
-| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. | ⭐24042 |
-| [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | ⭐23728 |
-| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 | ⭐23000 |
-| [datalab-to/surya](https://github.com/datalab-to/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages | ⭐21508 |
-| [whyour/qinglong](https://github.com/whyour/qinglong) | 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript） | ⭐19981 |
-| [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team \| Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 | ⭐18849 |
-| [labring/sealos](https://github.com/labring/sealos) | Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. | ⭐18372 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | ⭐392690 |
+| [github/spec-kit](https://github.com/github/spec-kit) | 💫 Toolkit to help you get started with SDD or any other process! | ⭐142170 |
+| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. | ⭐116587 |
+| [supabase/supabase](https://github.com/supabase/supabase) | The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. | ⭐112488 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace. | ⭐102828 |
+| [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere | ⭐94636 |
+| [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 🙌 OpenHands: AI-Driven Development | ⭐91418 |
+| [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) | ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS, Android, Linux, Windows. | ⭐88878 |
+| [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf | ⭐85937 |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies | ⭐84107 |
+| [opendatalab/MinerU](https://github.com/opendatalab/MinerU) | Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows. | ⭐82141 |
+| [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | ⭐75235 |
+| [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | 小红书笔记 \| 评论爬虫、抖音视频 \| 评论爬虫、快手视频 \| 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  \| 知乎问答文章｜评论爬虫 | ⭐67497 |
+| [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience  | ⭐67369 |
+| [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | An AI Hedge Fund Team | ⭐64113 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | ⭐58119 |
+| [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ | ⭐55691 |
+| [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | Free, open source crypto trading bot | ⭐55673 |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. | ⭐49802 |
+| [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) | Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. | ⭐44385 |
+| [wshobson/agents](https://github.com/wshobson/agents) | Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi | ⭐41282 |
+| [frappe/erpnext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | ⭐40411 |
+| [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) | An open-source engine that turns continuous content streams into search and monitoring. Durable ingestion, hybrid search, alerts, and plugins for formats, models and business rules. | ⭐39602 |
+| [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer) | An AI prompt optimizer for writing better prompts and getting better AI results. | ⭐38717 |
+| [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control. | ⭐37774 |
+| [langfuse/langfuse](https://github.com/langfuse/langfuse) | 🪢 Open source agent evals & observability: Trace, evaluate, and improve LLM applications with one open platform. | ⭐36105 |
+| [TabbyML/tabby](https://github.com/TabbyML/tabby) | Self-hosted AI coding assistant | ⭐33920 |
+| [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) | Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems. | ⭐32188 |
+| [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) | Create beautiful slides on the web using a coding agent's frontend skills | ⭐30995 |
+| [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) | A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search | ⭐29854 |
+| [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 🕸️ Web apps in pure Python 🐍 | ⭐28968 |
+| [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) | Get 10X more out of Claude Code, Codex or any coding agent | ⭐28412 |
+| [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | Let's use AI to Earn! | ⭐26695 |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | ⭐25156 |
+| [hypit-ai/hypit](https://github.com/hypit-ai/hypit) | Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views. | ⭐24335 |
+| [coleam00/Archon](https://github.com/coleam00/Archon) | The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. | ⭐23736 |
+| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 | ⭐23003 |
+| [datalab-to/surya](https://github.com/datalab-to/surya) | OCR, layout analysis, reading order, table recognition in 90+ languages | ⭐21513 |
+| [whyour/qinglong](https://github.com/whyour/qinglong) | 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript） | ⭐19991 |
+| [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) | Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team \| Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组 | ⭐18865 |
+| [labring/sealos](https://github.com/labring/sealos) | Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations. | ⭐18371 |
 | [emcie-co/parlant](https://github.com/emcie-co/parlant) | Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions. | ⭐18306 |
-| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | ⭐18174 |
-| [midday-ai/midday](https://github.com/midday-ai/midday) | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers | ⭐15084 |
-| [microsoft/playwright-python](https://github.com/microsoft/playwright-python) | Python version of the Playwright testing and automation library. | ⭐15054 |
-| [myhhub/stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 | ⭐14831 |
-| [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. | ⭐14604 |
-| [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。 | ⭐13082 |
-| [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) |  | ⭐12637 |
-| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. | ⭐11867 |
-| [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  | ⭐9687 |
-| [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations | ⭐8751 |
-| [liliMozi/openhanako](https://github.com/liliMozi/openhanako) | A personal AI agent with memory, personality, and autonomy. | ⭐6809 |
-| [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行 | ⭐5943 |
-| [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus \| vue3 admin \| vue-admin — focused on user experience and visual design. | ⭐5933 |
-| [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator) | AI 影视生产级工具 \| 支持 Seedance 2.0 \| 剧本到成片全流程批量化 \| AI-powered film production tool with Seedance 2.0 support | ⭐4732 |
-| [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) | Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. | ⭐4728 |
+| [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. | ⭐18181 |
+| [midday-ai/midday](https://github.com/midday-ai/midday) | Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers | ⭐15088 |
+| [microsoft/playwright-python](https://github.com/microsoft/playwright-python) | Python version of the Playwright testing and automation library. | ⭐15056 |
+| [myhhub/stock](https://github.com/myhhub/stock) | stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。 | ⭐14835 |
+| [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) | 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows. | ⭐14624 |
+| [wechat-article/wechat-article-exporter](https://github.com/wechat-article/wechat-article-exporter) | 一款在线的 微信公众号文章批量下载 工具，支持导出阅读量与评论数据，无需搭建任何环境，可通过 在线网站 使用，支持 docker 私有化部署和 Cloudflare 部署。  支持下载各种文件格式，其中 HTML 格式可100%还原文章排版与样式。 | ⭐13080 |
+| [bmaltais/kohya_ss](https://github.com/bmaltais/kohya_ss) |  | ⭐12638 |
+| [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. | ⭐11869 |
+| [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) |  | ⭐9686 |
+| [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) | HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations | ⭐8769 |
+| [liliMozi/openhanako](https://github.com/liliMozi/openhanako) | A personal AI agent with memory, personality, and autonomy. | ⭐6813 |
+| [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) | 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行 | ⭐5941 |
+| [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro) | A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus \| vue3 admin \| vue-admin — focused on user experience and visual design. | ⭐5937 |
+| [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator) | AI 影视生产级工具 \| 支持 Seedance 2.0 \| 剧本到成片全流程批量化 \| AI-powered film production tool with Seedance 2.0 support | ⭐4749 |
+| [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) | Open-source observability for AI agents. Find where your agents fail, dispatch your coding agent to fix it, and verify the fix against real traces. | ⭐4729 |
 | [gradio-app/fastrtc](https://github.com/gradio-app/fastrtc) | The python library for real-time communication | ⭐4632 |
-| [GuanYixuan/pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 https://github.com/GuanYixuan/pyCapCut 内开发 | ⭐4608 |
-| [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. | ⭐4500 |
+| [GuanYixuan/pyJianYingDraft](https://github.com/GuanYixuan/pyJianYingDraft) | 轻量、灵活、易上手的Python剪映草稿生成及导出工具，构建全自动化视频剪辑/混剪流水线。本项目的CapCut版本正于 https://github.com/GuanYixuan/pyCapCut 内开发 | ⭐4616 |
+| [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. | ⭐4504 |
 | [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) | 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 \| 前端页面：https://github.com/imsyy/DailyHot | ⭐4090 |
-| [modelscope/evalscope](https://github.com/modelscope/evalscope) | A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. | ⭐3563 |
-| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 | ⭐3514 |
-| [zeronsh/zeron](https://github.com/zeronsh/zeron) | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. | ⭐3310 |
-| [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) | A framework for prompt tuning using Intent-based Prompt Calibration  | ⭐3018 |
-| [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) | ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI. | ⭐2273 |
-| [theamusing/perfectPixel](https://github.com/theamusing/perfectPixel) | Refine and quantize messy AI pixel art into clean, perfect pixels. | ⭐2226 |
-| [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) | ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。 | ⭐2092 |
+| [modelscope/evalscope](https://github.com/modelscope/evalscope) | A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking. | ⭐3567 |
+| [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) | 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等 | ⭐3518 |
+| [zeronsh/zeron](https://github.com/zeronsh/zeron) | A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents. | ⭐3320 |
+| [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) | A framework for prompt tuning using Intent-based Prompt Calibration  | ⭐3019 |
+| [mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin) | ⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台 A modern and lightweight management platform based on FastAPI, Vue3, and Naive UI. | ⭐2278 |
+| [theamusing/perfectPixel](https://github.com/theamusing/perfectPixel) | Refine and quantize messy AI pixel art into clean, perfect pixels. | ⭐2230 |
+| [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) | ChatWiki 微信公众号的AI知识库工作流Agent平台，RAG大模型AI客服机器人，致力于成为垂直领域的coze、n8n。 | ⭐2091 |
 | [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP) | Discover inspiration and create images and videos with the latest AI models. Works with ChatGPT, Claude, Cursor, and other MCP clients. | ⭐1788 |
-| [idinging/freemail](https://github.com/idinging/freemail) | Cloudflare 域名邮箱系统 临时邮箱系统  支持API 调用 支持多渠道发件 支持用户管理 domain mail tempmail | ⭐1619 |
-| [zhtyyx/ioe](https://github.com/zhtyyx/ioe) | One-Stop Retail Inventory Solution | ⭐1615 |
+| [idinging/freemail](https://github.com/idinging/freemail) | Cloudflare 域名邮箱系统 临时邮箱系统  支持API 调用 支持多渠道发件 支持用户管理 domain mail tempmail | ⭐1620 |
+| [zhtyyx/ioe](https://github.com/zhtyyx/ioe) | One-Stop Retail Inventory Solution | ⭐1616 |
 | [FrozenGEE/compose](https://github.com/FrozenGEE/compose) | 分享compose模板，方便新人，老手快速部署docker容器，注释特别多，不懂看注释和最上方的链接，文字量巨大，劝退预警XD，懒得建站建博客，直接拿github当博客lol | ⭐1213 |
-| [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) | Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service. | ⭐1186 |
+| [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) | Vocat is an open-source web control panel and engineering toolkit for Quectel EC20/EC25-class cellular modems. It combines modem discovery, live radio status, AT and USSD terminals, SMS, WiFi Calling, eSIM management, network selection, proxy routing, notifications, audit logs, and release automation in one self-contained service. | ⭐1195 |
 | [codestable/CodeStable](https://github.com/codestable/CodeStable) | CodeStable 是一套面向严肃软件工程、坚持人在环的 AI 编码工作流。它不以编排 Agent 为中心，而是组织需求、架构、特性、问题与历史决策，让 Codex 和 Claude 驱动的开发过程可控、可追溯、可持续演进。 | ⭐1112 |
 | [mst272/LLM-Dojo](https://github.com/mst272/LLM-Dojo) | 轻量级 LLM Post-training 框架，支持 SFT、RLVR、On-Policy KD、Guide KD 及混合训练；实现单轮/多轮 Guide 蒸馏、多教师蒸馏、Reward 混合训练与自动化数据分流👩‍🎓👨‍🎓 | ⭐938 |
-| [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) |  | ⭐906 |
+| [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch) |  | ⭐909 |
 | [harleyszhang/llm_note](https://github.com/harleyszhang/llm_note) | LLM notes, including model inference, transformer model structure, and llm framework code analysis notes. | ⭐893 |
 | [lc2panda/alphastream](https://github.com/lc2panda/alphastream) | alphastream 是一个由 AI 驱动的投资决策平台，通过多 Agent 协同编排系统，实时流式输出覆盖全球金融市场的深度洞察。基于 LangGraph 和 Python 构建，它无缝整合技术指标、基本面数据、资金流向分析和情绪智能，形成动态自适应的工作流。不同于传统的回测工具，alphastream 通过 SSE 将完整的决策过程——从数据获取、工具调用到最终推理——全程可视化，为投资者提供透明的可执行智能。 | ⭐893 |
 | [liwenju0/cutword](https://github.com/liwenju0/cutword) | 一个简单快速的分词、命名实体识别工具 | ⭐635 |
@@ -240,20 +240,20 @@
 | [chinrain/Api-Conversion](https://github.com/chinrain/Api-Conversion) |  | ⭐468 |
 | [Richard0403/FluxPanel](https://github.com/Richard0403/FluxPanel) | FluxPanel基于FastApi+SqlAlchemy+Vue3开发的管理系统，易于拓展，支持代码一键生成 | ⭐404 |
 | [kasonye/ui-aesthetics-skill](https://github.com/kasonye/ui-aesthetics-skill) | A skill that improves AI aesthetic judgment for web UI generation, review, and refinement. | ⭐384 |
-| [rbetree/menav](https://github.com/rbetree/menav) | 一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏 | ⭐306 |
-| [codervisor/leanspec](https://github.com/codervisor/leanspec) | Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development | ⭐296 |
+| [rbetree/menav](https://github.com/rbetree/menav) | 一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏 | ⭐307 |
+| [codervisor/leanspec](https://github.com/codervisor/leanspec) | Lightweight, flexible Spec-Driven Development (SDD) for modern AI-powered development | ⭐297 |
 | [reliefeai/browser-relay](https://github.com/reliefeai/browser-relay) | Let AI agents share your everyday, logged-in Chrome through a Skill + CLI — locally or across multiple machines. | ⭐135 |
-| [gsvps/GSNode](https://github.com/gsvps/GSNode) | VPS / 云服务器一键体检：CPU、内存、磁盘、BBR、IP 质量、DNSBL、流媒体解锁、回程路由。 | ⭐80 |
+| [gsvps/GSNode](https://github.com/gsvps/GSNode) | VPS / 云服务器一键体检：CPU、内存、磁盘、BBR、IP 质量、DNSBL、流媒体解锁、回程路由。 | ⭐81 |
 
 ## Knowledge and Information😃
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | ⭐142337 |
-| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. | ⭐29917 |
-| [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） | ⭐25185 |
-| [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | :sparkles::sparkles:Latest Advances on Multimodal Large Language Models | ⭐18054 |
-| [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) | AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术 | ⭐18003 |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source. | ⭐142441 |
+| [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial. | ⭐29941 |
+| [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) | 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地） | ⭐25188 |
+| [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) | :sparkles::sparkles:Latest Advances on Multimodal Large Language Models | ⭐18055 |
+| [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) | AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术 | ⭐18008 |
 | [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow) | An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All. | ⭐8481 |
 | [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. | ⭐6677 |
 | [pprp/Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) | Awesome list for LLM quantization | ⭐454 |
@@ -262,29 +262,29 @@
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | ⭐64009 |
-| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | ⭐33298 |
-| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 | ⭐22773 |
-| [modelscope/FunASR](https://github.com/modelscope/FunASR) | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving. | ⭐20757 |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🧠 Train a 64M-parameter LLM from scratch in just 2h! | ⭐64053 |
+| [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | SOTA Open Source TTS | ⭐33323 |
+| [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) | 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 | ⭐22770 |
+| [modelscope/FunASR](https://github.com/modelscope/FunASR) | Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving. | ⭐20771 |
 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | Retrieval and Retrieval-augmented LLMs | ⭐12260 |
-| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | ⭐11709 |
-| [open-compass/opencompass](https://github.com/open-compass/opencompass) | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety. | ⭐7528 |
-| [allenai/OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo | ⭐6705 |
-| [lonePatient/awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合 | ⭐5612 |
+| [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) | TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation. | ⭐11706 |
+| [open-compass/opencompass](https://github.com/open-compass/opencompass) | OpenCompass is an LLM evaluation platform, supporting a wide range of models from OpenAI, Anthropic, Gemini, Qwen, GLM, DeepSeek, etc, across 100+ datasets covering knowledge, reasoning, coding, science, language, long-context, and safety. | ⭐7530 |
+| [allenai/OLMo](https://github.com/allenai/OLMo) | Modeling, training, eval, and inference code for OLMo | ⭐6706 |
+| [lonePatient/awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models) | Awesome Pretrained Chinese NLP Models，高质量中文预训练模型&大模型&多模态模型&大语言模型集合 | ⭐5613 |
 | [johnson7788/DPO_TRAIN_AGENT](https://github.com/johnson7788/DPO_TRAIN_AGENT) | 使用DPO训练Agent，收集训练数据到训练模型和推理 | ⭐12 |
 
 ## tools
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | ⭐85895 |
-| [getpaseo/paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | ⭐21459 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more. | ⭐86511 |
+| [getpaseo/paseo](https://github.com/getpaseo/paseo) | Orchestrate multiple coding agents from desktop and mobile | ⭐21547 |
 
 ## 未分类仓库
 
 | 仓库名称 | 描述 | Star数 |
 |----------|------|-------|
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | ⭐328428 |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. | ⭐20741 |
-| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. | ⭐6928 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | ⭐328739 |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end. | ⭐20757 |
+| [dataease/SQLBot](https://github.com/dataease/SQLBot) | 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG. | ⭐6933 |
 | [traveler-leon/smart-customer-service-system](https://github.com/traveler-leon/smart-customer-service-system) | 构建一个基于大模型的智能客服系统，可提供静态知识问答(静态数据)、动态知识问答（数据库），业务办理（api调用）等功能，同时系统具有自我学习能力。定期的反思可让系统变得更强大。 | ⭐102 |
